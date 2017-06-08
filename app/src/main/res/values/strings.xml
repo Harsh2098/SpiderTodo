@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Spider Todo</string>
+    <string name="item_name">Item Name</string>
+    <string name="eg_galaxy_s7_edge">Eg. Galaxy S7 Edge</string>
+    <string name="placeholder_itemName">AStud</string>
+    <string name="placeholder_number">SrNo.</string>
+    <string name="add">ADD</string>
+    <string name="delete">DELETE</string>
+</resources>
